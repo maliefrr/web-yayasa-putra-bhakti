@@ -1,3 +1,29 @@
 .carousel-item {
-	max-height: 100vh;
+	height: 100vh;
+	object-fit: cover;
+}
+
+.visi-misi {
+	background-color: #198754;
+	color: #fff;
+	padding: 15px;
+}
+
+.container-inner {
+	margin-left: 25%;
+}
+
+.misi {
+	padding: 10px;
+}
+
+.container-sejarah {
+	padding: 15px;
+}
+
+.footer {
+	background-color: #198754;
+	color: #fff;
+	margin-top: 20px;
+	padding: 30px;
 }
